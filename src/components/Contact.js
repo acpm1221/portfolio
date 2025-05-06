@@ -18,7 +18,7 @@ const Contact = ({ id }) => {
               <h3>Location</h3>
               <p>Surya Nagar</p>
               <p>Ghaziabad, Uttar Pradesh, India</p>
-              <p>Pincode: 400098</p>
+              <p>Pincode: 201011</p>
             </div>
           </div>
           
