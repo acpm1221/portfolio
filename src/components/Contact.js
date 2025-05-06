@@ -16,8 +16,8 @@ const Contact = ({ id }) => {
             </div>
             <div className="contact-details">
               <h3>Location</h3>
-              <p>Kalina, Santacruz East</p>
-              <p>Mumbai, Maharashtra, India</p>
+              <p>Surya Nagar</p>
+              <p>Ghaziabad, Uttar Pradesh, India</p>
               <p>Pincode: 400098</p>
             </div>
           </div>
@@ -28,7 +28,7 @@ const Contact = ({ id }) => {
             </div>
             <div className="contact-details">
               <h3>Phone</h3>
-              <p>+91-9702062655</p>
+              <p>+91-8887985516</p>
             </div>
           </div>
           
