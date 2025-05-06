@@ -1,0 +1,116 @@
+.certification-section {
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+.certification-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('https://www.transparenttextures.com/patterns/dark-geometric.png');
+  opacity: 0.1;
+  z-index: 0;
+}
+
+.certification-section h1 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  color: white;
+  position: relative;
+  z-index: 1;
+}
+
+
+.certification-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  position: relative;
+  z-index: 1;
+}
+
+.certification-item {
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  border-left: 6px solid #ffc107;
+}
+
+.certification-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.2);
+}
+
+.certification-item h3 {
+  font-size: 1.2rem;
+  color: #333;
+  margin-bottom: 0.8rem;
+  font-weight: 600;
+}
+
+.certification-item p {
+  font-size: 0.9rem;
+  color: #444;
+  margin-bottom: 0.5rem;
+}
+
+.view-btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  color: white;
+  font-weight: 600;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  font-size: 0.9rem;
+}
+
+.view-btn:hover {
+  background-color: #0056b3;
+}
+
+/* Tablet Styles */
+@media (min-width: 768px) {
+  .certification-section h1 {
+    font-size: 3rem;
+    margin-bottom: 3rem;
+  }
+
+  .certification-list {
+    gap: 2rem;
+  }
+
+  .certification-item {
+    padding: 2rem;
+  }
+}
+
+/* Mobile Styles */
+@media (max-width: 576px) {
+  .certification-section {
+    padding: 2rem 1rem;
+  }
+
+  .certification-section h1 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .certification-list {
+    grid-template-columns: 1fr;
+  }
+}
