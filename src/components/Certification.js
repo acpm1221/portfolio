@@ -5,20 +5,20 @@ const certifications = [
   {
     title: 'Mastery in Java Programming ',
     issuer: 'Geekster',
-    year: '2024',
-    link: 'https://drive.google.com/file/d/1Qds0u9U19T2WXE-eNlstcFTgWxNJ18WO/view?usp=sharing'
+    year: '2023-2024',
+    link: 'https://drive.google.com/file/d/1MQIrD5IJXPt_aHRTczy70QK3rm1pdj50/view?usp=sharing'
   },
   {
     title: 'Mastery in JavaScript ',
     issuer: 'Geekster',
-    year: '2024',
-    link: 'https://drive.google.com/file/d/190G7wsu-RrWIVl6qpAqpfDK3L4bdZ8Sy/view?usp=sharing'
+    year: '2023-2024',
+    link: 'https://drive.google.com/file/d/1MQIrD5IJXPt_aHRTczy70QK3rm1pdj50/view?usp=sharing'
   },
   {
     title: 'Full Stack Development',
     issuer: 'Geekster',
-    year: '2024',
-    link: 'https://drive.google.com/file/d/1IAuKI12iurEPH9xc3JU6ENwfz0KhClR-/view?usp=sharing'
+    year: '2023-2024',
+    link: 'https://drive.google.com/file/d/1PK0UeK0-7pt6yPzQ4r4AjzIMXDHQ29Oq/view?usp=sharing'
   }
 ];
 
