@@ -8,7 +8,7 @@ const About = ({ id }) => {
         <h1 className="about-title">About Me</h1>
         <div className="about-content">
           <p>
-            Hi, I'm <span className="highlight">Anmol Kumar</span>, a dedicated and enthusiastic <span className="highlight">Full Stack Developer</span> specializing in the <span className="highlight">MERN stack</span> (MongoDB, Express.js, React.js, and Node.js).
+            A dedicated and enthusiastic <span className="highlight">Full Stack Developer</span> specializing in the <span className="highlight">MERN stack</span> (MongoDB, Express.js, React.js, and Node.js).
           </p>
           <p>
             I recently completed comprehensive full-stack development training, where I worked on multiple hands-on projects including an expense tracker, food delivery app, and hospital management system. These projects helped me strengthen my understanding of REST APIs, authentication, and responsive UI design.
