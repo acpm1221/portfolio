@@ -50,7 +50,7 @@ const Home = ({ id }) => {
           
           <div className="button-group">
             <a 
-              href="https://drive.google.com/file/d/1Vq1PUPS6IIYn8cCIg20M_-X44Yz78TGD/view?usp=sharing" 
+              href="https://drive.google.com/file/d/19Ixu5H9ob6ukqw5qo9PYgQzl4mYmkdPP/view?usp=sharing" 
               className="btn resume-btn"
               target="_blank"
               rel="noopener noreferrer"
