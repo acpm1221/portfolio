@@ -66,13 +66,13 @@ const Projects = ({ id }) => {
           </p>
         </div>
         <div className="project-item">
-          <h3>Emoji search app</h3>
+          <h3>Pokemon search app</h3>
           <h4>HTML CSS JavaScript</h4>
           <a href="https://github.com/acpm1221/pokemon" target="_blank">View on GitHub</a><br></br>
           <a href="https://acpm1221.github.io/pokemon/" target="_blank">Hosted Link</a>
           <br></br>
           <p>
-            A simple and fast emoji search tool built with Vanilla JavaScript
+            A simple and fast Pokemon search tool built with Vanilla JavaScript
             that lets users filter and copy emojis in real-time using keyword
             input.
           </p>
