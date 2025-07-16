@@ -8,13 +8,19 @@ const About = ({ id }) => {
         <h1 className="about-title">About Me</h1>
         <div className="about-content">
           <p>
-            Hi, I'm <span className="highlight">Anmol Kumar</span>, a passionate and detail-oriented <span className="highlight">MERN Stack Developer</span> with a strong foundation in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js.
+            Hi, I'm <span className="highlight">Anmol Kumar</span>, a dedicated and enthusiastic <span className="highlight">Full Stack Developer</span> specializing in the <span className="highlight">MERN stack</span> (MongoDB, Express.js, React.js, and Node.js).
           </p>
           <p>
-            I specialize in creating responsive, high-performance web applications that offer seamless user experiences. Whether it's designing intuitive front-end interfaces or developing robust back-end APIs, I thrive on solving complex problems and bringing ideas to life through clean, scalable code.
+            I recently completed comprehensive full-stack development training, where I worked on multiple hands-on projects including an expense tracker, food delivery app, and hospital management system. These projects helped me strengthen my understanding of REST APIs, authentication, and responsive UI design.
           </p>
           <p>
-            I'm always eager to learn new technologies and stay up-to-date with industry trends. Currently, I'm looking for opportunities where I can grow as a developer and contribute to meaningful projects that make a difference.
+            I have experience working with tools like Git, GitHub, Postman, Netlify, and Render. I enjoy the process of building web applications from the ground up and solving real-world problems through code.
+          </p>
+          <p>
+            Apart from technical skills, I’ve actively participated in <span className="highlight">Geekathons</span> as a team member, which gave me exposure to collaboration, version control, and agile-style development.
+          </p>
+          <p>
+            I’m now looking forward to starting my career in web development, where I can contribute, grow, and learn continuously. I’m particularly excited about joining a team where I can work on meaningful projects and get mentorship from experienced developers.
           </p>
         </div>
       </div>
