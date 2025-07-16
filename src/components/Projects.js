@@ -73,7 +73,7 @@ const Projects = ({ id }) => {
           <br></br>
           <p>
             A simple and fast Pokemon search tool built with Vanilla JavaScript
-            that lets users filter and copy emojis in real-time using keyword
+            that lets users filter pokemon in real-time using keyword
             input.
           </p>
         </div>
