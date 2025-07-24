@@ -12,7 +12,7 @@ const Projects = ({ id }) => {
           
           <h4>MERN </h4>
           <a href="https://github.com/acpm1221/money_mate_repo" target="_blank">View on GitHub</a><br></br>
-          <a href="https://drive.google.com/file/d/1VGSOC6P3L8fH1byRqqVsJhnIvyMcxQar/view?usp=sharing" target="_blank">Hosted Link</a>
+          <a href="https://money-mate-repo.vercel.app/" target="_blank">Hosted Link</a>
           <br></br>
           <p>
             A full-stack web application that allows users to track their income
