@@ -28,7 +28,7 @@ const Projects = ({ id }) => {
           
           <h4>MERN </h4>
           <a href="https://github.com/acpm1221/food-del" target="_blank">View on GitHub</a><br></br>
-          <a href="https://github.com/acpm1221/food-del" target="_blank">Hosted Link</a>
+          <a href="https://app-food-tomato.netlify.app/" target="_blank">Hosted Link</a>
           <br></br>
           <p>
             A full-stack web application that allows users to track their income
