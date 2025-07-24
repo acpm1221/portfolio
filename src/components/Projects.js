@@ -39,6 +39,25 @@ const Projects = ({ id }) => {
             efficiently.
           </p>
         </div>
+
+              <div className="project-item">
+          <h3>Real time chat App</h3>
+          
+          <h4>MERN </h4>
+          <a href="https://github.com/acpm1221/PingIt" target="_blank">View on GitHub</a><br></br>
+          <a href="https://drive.google.com/file/d/1K7VO_aCmmt6i3I3PckaXcrHHXgjkJ_8O/view?usp=sharing" target="_blank">Hosted Link</a>
+          <br></br>
+          <p>
+            Real-Time Chat App is a full-stack web application built using MongoDB,
+            Express.js, React, and Node.js, featuring real-time messaging with 
+            Socket.io. Users can sign up, log in, and chat instantly with others
+            in a sleek, responsive interface. Messages are stored securely in MongoDB,
+            and the app provides a smooth user experience with real-time updates, 
+            online status, and typing indicators.
+          </p>
+        </div>
+
+              
         <div className="project-item">
           <h3>Personal portfolio</h3>
           <h4>React</h4>
