@@ -39,6 +39,38 @@ const Projects = ({ id }) => {
             efficiently.
           </p>
         </div>
+              <div className="project-item">
+          <h3>Tab_Form</h3>
+          
+          <h4>React</h4>
+          <a href="https://github.com/acpm1221/tab-form" target="_blank">View on GitHub</a><br></br>
+          <a href="https://drive.google.com/file/d/1ZaZNQ7kC-HXx-pFky5SWm5VDNddGxI7d/view?usp=sharing" target="_blank">Hosted Link</a>
+          <br></br>
+          <p>
+              A simple and responsive multi-tab form built with React. 
+              The app allows users to navigate between different sections like Profile,
+              Interests, and Settings using tabs. Each tab displays its own form or content,
+              and all data is managed centrally using React's useState for a seamless user experience.
+              Perfect for organizing user inputs in a clean, modular layout.
+          </p>
+        </div>
+
+              <div className="project-item">
+          <h3>Tab_Form</h3>
+          
+          <h4>React</h4>
+          <a href="https://github.com/acpm1221/tab-form" target="_blank">View on GitHub</a><br></br>
+          <a href="https://drive.google.com/file/d/1ZaZNQ7kC-HXx-pFky5SWm5VDNddGxI7d/view?usp=sharing" target="_blank">Hosted Link</a>
+          <br></br>
+          <p>
+              A simple and responsive multi-tab form built with React. 
+              The app allows users to navigate between different sections like Profile,
+              Interests, and Settings using tabs. Each tab displays its own form or content,
+              and all data is managed centrally using React's useState for a seamless user experience.
+              Perfect for organizing user inputs in a clean, modular layout.
+          </p>
+        </div>
+
 
               <div className="project-item">
           <h3>Real time chat App</h3>
