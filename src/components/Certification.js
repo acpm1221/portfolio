@@ -12,7 +12,7 @@ const certifications = [
     title: 'Mastery in JavaScript ',
     issuer: 'Geekster',
     year: '2023-2024',
-    link: 'https://drive.google.com/file/d/1MQIrD5IJXPt_aHRTczy70QK3rm1pdj50/view?usp=sharing'
+    link: 'https://drive.google.com/file/d/1rhm19kroTB8dNLQN9HFAJ9vAhzwPM5NI/view?usp=sharing'
   },
   {
     title: 'Full Stack Development',
