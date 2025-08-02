@@ -44,7 +44,7 @@ const Projects = ({ id }) => {
           
           <h4>React</h4>
           <a href="https://github.com/acpm1221/tab-form" target="_blank">View on GitHub</a><br></br>
-          <a href="https://drive.google.com/file/d/1ZaZNQ7kC-HXx-pFky5SWm5VDNddGxI7d/view?usp=sharing" target="_blank">Hosted Link</a>
+          <a href="https://drive.google.com/file/d/1ZaZNQ7kC-HXx-pFky5SWm5VDNddGxI7d/view?usp=sharing" target="_blank">Video</a>
           <br></br>
           <p>
               A simple and responsive multi-tab form built with React. 
@@ -56,18 +56,41 @@ const Projects = ({ id }) => {
         </div>
 
               <div className="project-item">
-          <h3>Tab_Form</h3>
+          <h3>Recipe App with Auto Complete Search Bar</h3>
           
           <h4>React</h4>
-          <a href="https://github.com/acpm1221/tab-form" target="_blank">View on GitHub</a><br></br>
-          <a href="https://drive.google.com/file/d/1ZaZNQ7kC-HXx-pFky5SWm5VDNddGxI7d/view?usp=sharing" target="_blank">Hosted Link</a>
+          <a href="https://github.com/acpm1221/Recipe" target="_blank">View on GitHub</a><br></br>
+          <a href="https://cute-cucurucho-8bae12.netlify.app/" target="_blank">Hosted Link</a>
           <br></br>
           <p>
-              A simple and responsive multi-tab form built with React. 
-              The app allows users to navigate between different sections like Profile,
-              Interests, and Settings using tabs. Each tab displays its own form or content,
-              and all data is managed centrally using React's useState for a seamless user experience.
-              Perfect for organizing user inputs in a clean, modular layout.
+              A responsive React app that lets users search for recipes with real-time auto-complete suggestions.
+              Built using React Hooks, debounced input for efficient API calls, and a clean UI to display full recipe
+              details including ingredients, instructions, and ratings.
+          </p>
+        </div>
+                <div className="project-item">
+          <h3>Progress Bar</h3>
+          
+          <h4>React</h4>
+          
+          <a href="https://drive.google.com/file/d/1meJ-vMX5ZfbTII_PEzfIDIVncklw2Fc3/view?usp=sharing" target="_blank">Video</a>
+          <br></br>
+          <p>
+              A responsive React app that lets users search for recipes with real-time auto-complete suggestions.
+              Built using React Hooks, debounced input for efficient API calls, and a clean UI to display full recipe
+              details including ingredients, instructions, and ratings.
+          </p>
+        </div>
+              <div className="project-item">
+          <h3>Pagination</h3>
+          
+          <h4>React</h4>
+          <a href="https://github.com/acpm1221/pagination_" target="_blank">View on GitHub</a><br></br>
+          <a href="https://drive.google.com/file/d/1lYUqp4CuEMihxxNnaSDVjD-FL76ntzpy/view?usp=sharing" target="_blank">Video</a>
+          <br></br>
+          <p>
+              A reusable pagination system built with React that divides large data sets into manageable pages. 
+                Supports navigating through pages with next/previous buttons, specific page numbers, and customizable items per page.
           </p>
         </div>
 
@@ -77,7 +100,7 @@ const Projects = ({ id }) => {
           
           <h4>MERN </h4>
           <a href="https://github.com/acpm1221/PingIt" target="_blank">View on GitHub</a><br></br>
-          <a href="https://drive.google.com/file/d/1K7VO_aCmmt6i3I3PckaXcrHHXgjkJ_8O/view?usp=sharing" target="_blank">Hosted Link</a>
+          <a href="https://drive.google.com/file/d/1K7VO_aCmmt6i3I3PckaXcrHHXgjkJ_8O/view?usp=sharing" target="_blank">Video</a>
           <br></br>
           <p>
             Real-Time Chat App is a full-stack web application built using MongoDB,
